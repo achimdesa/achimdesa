@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @achimdesa
+- 👋 Hi, I’m Aga Chimdesa
 - 👀 I’m interested in learning new things daily.
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m Skilled in AI(ML,DL),Data Engineering, FinTech
+- 💞️ I’m looking to collaborate on AI projects
+- 📫 How to reach me: aga.orobank@gmail.com
 
 <!---
 achimdesa/achimdesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
